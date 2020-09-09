@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react/rubix/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/react/rubix/static/js/main.2d7e55f6.chunk.js",
+    "main.js.map": "/react/rubix/static/js/main.2d7e55f6.chunk.js.map",
+    "runtime-main.js": "/react/rubix/static/js/runtime-main.505d02c0.js",
+    "runtime-main.js.map": "/react/rubix/static/js/runtime-main.505d02c0.js.map",
+    "static/js/2.cd31748c.chunk.js": "/react/rubix/static/js/2.cd31748c.chunk.js",
+    "static/js/2.cd31748c.chunk.js.map": "/react/rubix/static/js/2.cd31748c.chunk.js.map",
+    "index.html": "/react/rubix/index.html",
+    "precache-manifest.f22c554c95f6d65f09bd5a20b2488c85.js": "/react/rubix/precache-manifest.f22c554c95f6d65f09bd5a20b2488c85.js",
+    "service-worker.js": "/react/rubix/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/react/rubix/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.cd31748c.chunk.js.LICENSE.txt": "/react/rubix/static/js/2.cd31748c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505d02c0.js",
+    "static/js/2.cd31748c.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.2d7e55f6.chunk.js"
+  ]
+}
