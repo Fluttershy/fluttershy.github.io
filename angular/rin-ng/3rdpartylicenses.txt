@@ -266,6 +266,9 @@ Apache-2.0
    See the License for the specific language governing permissions and
    limitations under the License.
 
+ngx-drag-drop
+BSD-3-Clause
+
 path-browserify
 MIT
 MIT License
