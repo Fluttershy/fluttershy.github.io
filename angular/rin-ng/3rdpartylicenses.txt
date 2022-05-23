@@ -524,6 +524,9 @@ Apache-2.0
  
 
 
+seti-icons
+MIT
+
 three
 MIT
 The MIT License
